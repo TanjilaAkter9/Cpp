@@ -1,25 +1,5 @@
 /*
----
 
-## **Easy (1–15) — Basics, Loops, Conditional Statements**
-
-1. Print "Hello World" (`hello_world`)
-2. Input two numbers and sum (`sum_two_numbers`)
-3. Check even or odd (`even_odd_check`)
-4. Largest of three numbers (`largest_three_nums`)
-5. Swap two numbers (`swap_two_nums`)
-6. Print numbers 1 to N (`print_1_to_N`)
-7. Factorial using loop (`factorial_loop`)
-8. Sum first N numbers (`sum_first_N`)
-9. Multiplication table (`multiplication_table`)
-10. Reverse a number (`reverse_number`)
-11. Palindrome number check (`palindrome_number`)
-12. Count digits (`count_digits`)
-13. Sum of digits (`sum_digits`)
-14. Leap year check (`leap_year_check`)
-15. Fibonacci series (`fibonacci_series`)
-
----
 
 ## **Medium (16–35) — Functions, Arrays, Strings, Sorting**
 
